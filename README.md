@@ -1,50 +1,63 @@
-# Hi there, I'm Chengke Wu (EricNGOntos) 👋
-
-**`AI System Architect`** | **`Agentic RAG Pioneer`** | **`Multi-Agent System Researcher`**
-
-I build production-grade AI systems, orchestrate complex agentic workflows, and research the next generation of document intelligence.
-
-### 🔬 Core Focus & Ecosystems
-
-#### 🧠 Agentic RAG & Document Intelligence
-- **[Ontos-AI / Knowhere](https://github.com/Ontos-AI/knowhere)**: Engineered a unified Agentic RAG pipeline. Implemented dynamic `WorkflowOrchestrator`, deferred asset reconciliation to prevent context explosion, and precise hierarchical context rendering.
-- **Snap-fill Ecosystem**: A production-grade document intelligence platform featuring multi-stage field extraction, Term-First + Fallback retrieval strategies, and Lineage-Based Protection for LLM hallucination prevention.
-- **Patent Clustering System**: Specialized technical analysis pipeline for patent data, clustering 'Three Elements' (Problem, Technique, Effect) using decoupled FastAPI microservices and Hybrid Search.
-
-#### 🤖 Agent Orchestration & OS Design
-- **AgentSkillOS & anything-skills**: Developed a DAG-based orchestration engine and retrieval layer for 90,000+ agent skills, enabling autonomous experience extraction and execution.
-- **Antigravity Agent & Mini OpenClaw**: Built macOS-native AI agent prototypes integrating local workspace awareness, dual-layer behavior systems, and native UI integrations.
-- **ECHO-fact-check**: A dual-agent verification system (Generator/Reflector) with an automated rule curation engine built on FastAPI and React.
-
-#### 🎓 Academic Research (NSFC)
-- Researching **AI Agent Cluster Coordination**, focusing on Dual-Chain Memory architectures, Graph-RAG topology association ($Rel = \alpha\cdot kw + \beta\cdot tri + \gamma\cdot sem$), and RL-driven lifecycle governance.
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricNGOntos&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="EricNGOntos's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNGOntos&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Chengke%20Wu%20(Eric)&fontSize=50&fontAlignY=35&desc=AI%20Architect%20%7C%20Knowledge%20Graph%20%7C%20Agentic%20RAG&descAlignY=55&descAlign=50" />
 </div>
 
+<h1 align="center">Hi there, I'm Chengke Wu (Eric) 👋</h1>
+
+<h3 align="center">Associate Professor @ Shenzhen Institutes of Advanced Technology, CAS</h3>
+
+<div align="center">
+  <a href="https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google_Scholar-Chengke_Wu-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:wuchengke@siat.ac.cn"><img src="https://img.shields.io/badge/Email-wuchengke%40siat.ac.cn-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br>
+
+### 👨‍💻 About Me
+I am a researcher and AI developer bridging the gap between cutting-edge Artificial Intelligence and real-world engineering systems. My core expertise lies in **Agentic Retrieval-Augmented Generation (RAG)**, **Knowledge Graphs (KG)**, and **Multi-Modal Large Language Models (LLMs)**. I focus on parsing, reasoning, and generating robust solutions for complex, high-noise production environments.
+
+- 🔭 **Current Focus:** Building agent-driven systems for complex data parsing, constraint modeling, and dynamic knowledge generation.
+- 🏆 **Recent Highlight:** 1st Place in the Alibaba Global LLM Document Parsing Challenge (1/406), 2025.
+- 🧠 **Tech Stack:** Python, FastAPI, React, PyTorch, Neo4j, PostgreSQL, LangChain, Celery, DeepSeek, Claude, Llama.
+- 🎓 **Background:** Ph.D. from Curtin University (Australia); B.Eng & M.Eng from Chongqing University.
+
 ---
 
-### 📫 Let's Connect
+### 🚀 Research & Innovation
 
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EricWck28062)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackorangekk@gmail.com)
+My work focuses on the synergy between deep learning, semantic web technologies, and LLMs to solve domain-specific challenges in AEC (Architecture, Engineering, and Construction) and beyond.
+
+#### 🌟 Key Areas
+- **Agentic RAG & LLM Orchestration:** Developing fault-tolerant, budget-aware AI agents for complex document navigation and reasoning.
+- **Ontology & Knowledge Graphs:** Constructing dynamic, hybrid deep-learning models for automatic constraint extraction and reasoning.
+- **Multimodal Data Parsing:** Structuring highly noisy, heterogeneous data (PDFs, DOCX, images) for LLM pipelines.
+
+#### 📚 Selected Publications
+*For a full list, visit my [Google Scholar](https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN).*
+- *Retrieval augmented generation-driven information retrieval and question answering in construction management.* **Advanced Engineering Informatics**, 2025.
+- *SMALLM: a local small model augmented a cloud-based large language model for Chinese named entity recognition in low-resource industries.* **Complex & Intelligent Systems**, 2025.
+- *Graph-based deep learning model for knowledge base completion in constraint management of construction projects.* **Computer-Aided Civil and Infrastructure Engineering**, 2023.
+- *Ontological knowledge base for concrete bridge rehabilitation project management.* **Automation in Construction**, 2020. (ESI Highly Cited)
+- *Critical review of data-driven decision-making in bridge operation and maintenance.* **Structure and Infrastructure Engineering**, 2020. (ESI Hot Paper)
+
+---
+
+### 🏆 Honors & Grants
+- **1st Place**, Alibaba Global LLM Document Parsing Challenge (2025)
+- **Principal Investigator**, National Natural Science Foundation of China (Youth Fund) (2023-2025)
+- **Principal Investigator**, Postdoctoral Science Foundation of China (2022-2023)
+- **Academic Rising Star**, Shenzhen Institutes of Advanced Technology, CAS (2022)
+- **2nd Prize**, Hong Kong Construction Industry Council (CIC) Construction Innovation Award (2022)
+
+---
+
+### ⚡ GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricNGOntos&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="192" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNGOntos&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="192" alt="Top Languages"/>
+</div>
+
+<br>
+<div align="center">
+  <i>"Reasoning from First Principles, Building with Intelligence."</i>
+</div>
