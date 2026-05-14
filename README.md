@@ -52,11 +52,11 @@ If it involves parsing the unparsable, extracting the invisible, or orchestratin
 My research focuses on deep learning, ontology, and LLM-driven decision-making in complex environments (e.g., AEC - Architecture, Engineering, and Construction). 
 
 **Selected Core Papers (First/Corresponding Author):**
-* `[AutCon 2022]` *Natural language processing for smart construction: Current status and future directions* (Q1)
-* `[AutCon 2022]` *Ontology-based mapping approach for automatic work packaging in modular construction* (Q1)
-* `[AutCon 2021]` *Hybrid deep learning model for automating constraint modelling in advanced working packaging* (Q1)
-* `[AutCon 2020]` *Ontological knowledge base for concrete bridge rehabilitation project management* (**ESI Highly Cited**, Q1)
-* `[Structure & Infrastructure Eng. 2020]` *Critical review of data-driven decision-making in bridge operation and maintenance* (**ESI Hot Paper**, **ESI Highly Cited**)
+* `[Advanced Engineering Informatics 2025]` *Retrieval augmented generation-driven information retrieval and question answering in construction management* (**ESI Highly Cited**, Q1)
+* `[arXiv 2025]` *AuditAgent: Expert-Guided Multi-Agent Reasoning for Cross-Document Fraudulent Evidence Discovery*
+* `[Advanced Engineering Informatics 2024]` *A KG-LLM-Enabled Inspection Work Packaging Approach in Module Prefabrication* (Q1)
+* `[Automation in Construction 2024]` *Safety Consultation for Prefabricated Construction: A Localized Retrieval-Augmented Generative Question-Answering System* (Q1)
+* `[Automation in Construction 2023]` *Unlocking the Power of Language Models for Smart Configuration in the AEC Domain Using Spoken Language Understanding* (Q1)
 
 > 🔗 *For a complete list of publications, citations, and patents, please query my [Google Scholar](https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN).*
 
@@ -68,20 +68,22 @@ My research focuses on deep learning, ontology, and LLM-driven decision-making i
 threads:
   - id: 0x01
     status: "ACTIVE"
-    task: "Architecting Ontos-AI/Knowhere: A unified Agentic RAG pipeline with dynamic WorkflowOrchestrator and precise hierarchical context rendering."
+    task: "Ontos-AI/Knowhere (Open Source): A unified Agentic RAG pipeline with dynamic WorkflowOrchestrator and precise hierarchical context rendering."
   - id: 0x02
     status: "ACTIVE"
-    task: "Developing Snap-fill Ecosystem: Production-grade document intelligence with Term-First + Fallback retrieval and Lineage-Based Protection."
+    task: "Snap-fill Ecosystem (Local): Production-grade document intelligence platform featuring Term-First + Fallback retrieval and Lineage-Based Protection."
   - id: 0x03
     status: "ACTIVE"
-    task: "NSFC Research: AI Agent Cluster Coordination, Dual-Chain Memory architectures, and Graph-RAG topology association."
+    task: "Hierarchy-as-Harness: Researching the use of explicit document hierarchies as an action and evidence scaffold for budget-constrained agents, outperforming Flat-ReAct."
+  - id: 0x04
+    status: "ACTIVE"
+    task: "What and Where (SCD Table Analysis): Investigating spatial cognitive dissonance in LLMs parsing complex tables, demonstrating multi-target interference drives displacement errors."
+  - id: 0x05
+    status: "ACTIVE"
+    task: "WWW 2026 Research (T-Fus / Tree_RAG): Developing incremental fragmented knowledge fusion in RAG via top-down tree structuring."
 ```
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricNGOntos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <i>"Reasoning from First Principles, Building with Intelligence."</i>
