@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Chengke%20Wu%20(Eric)&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00ff00" />
-  
-  <br>
-  <code>System.out.println("Hello, World! I build AI brains for complex environments.");</code>
+  <a href="https://ontos.ai">
+    <img src="banner.svg" alt="Chengke Wu (Eric)" width="850">
+  </a>
   <br><br>
-
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackorangekk@gmail.com)
+  <a href="https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="mailto:blackorangekk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 <br>
