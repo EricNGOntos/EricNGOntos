@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ontos.ai">
+  <a href="https://knowhereto.ai">
     <img src="banner.svg" alt="Chengke Wu (Eric)" width="850">
   </a>
   <br><br>
@@ -13,7 +13,7 @@
 
 <br>
 
-> **Associate Professor** @ *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)*  
+> **Founder & CTO**, *Meta Structure Co., Ltd* · **Associate Professor** @ *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)*  
 > 🎓 Ph.D. in AI & Engineering, *Curtin University, Australia* | B.Eng & M.Eng, *Chongqing University*
 
 ---
@@ -68,7 +68,7 @@ My research focuses on deep learning, ontology, and LLM-driven decision-making i
 threads:
   - id: 0x01
     status: "ACTIVE"
-    task: "Ontos-AI/Knowhere (Open Source): A unified Agentic RAG pipeline with dynamic WorkflowOrchestrator and precise hierarchical context rendering."
+    task: "Meta Structure / Knowhere (Open Source): A unified Agentic RAG pipeline with dynamic WorkflowOrchestrator and precise hierarchical context rendering."
   - id: 0x02
     status: "ACTIVE"
     task: "Snap-fill Ecosystem (Local): Production-grade document intelligence platform featuring Term-First + Fallback retrieval and Lineage-Based Protection."
