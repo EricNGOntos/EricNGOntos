@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://knowhereto.ai">
-    <img src="banner.svg" alt="Chengke Wu (Eric)" width="850">
+    <img src="banner-v2.svg" alt="Chengke Wu (Eric)" width="850">
   </a>
   <br><br>
   <a href="https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN">
