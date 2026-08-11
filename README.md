@@ -65,25 +65,22 @@ My research focuses on deep learning, ontology, and LLM-driven decision-making i
 
 ---
 
-### 🔬 `<current_processes>`
+### 🔬 `<ongoing.work>`
 
 ```yaml
 threads:
   - id: 0x01
-    status: "ACTIVE"
-    task: "Meta Structure / Knowhere (Open Source): A unified Agentic RAG pipeline with dynamic WorkflowOrchestrator and precise hierarchical context rendering."
+    status: "SUBMITTED"
+    venue: "EMNLP 2026"
+    task: "Where vs What, Structure–Content Decomposition: metrics that separate whether a model recalls the correct value from whether it places that value at the correct grid/path coordinate; structure-aware verifiable RL rewards for JSON and table tasks."
   - id: 0x02
-    status: "ACTIVE"
-    task: "Snap-fill Ecosystem (Local): Production-grade document intelligence platform featuring Term-First + Fallback retrieval and Lineage-Based Protection."
+    status: "WORKING_PAPER"
+    venue: "NAACL 2027"
+    task: "Hierarchy as agent harness: graph/tree hierarchy as an explicit navigation harness for long, complex information search; compare retrieval across parsers and SOTA agents."
   - id: 0x03
-    status: "ACTIVE"
-    task: "Hierarchy-as-Harness: Researching the use of explicit document hierarchies as an action and evidence scaffold for budget-constrained agents, outperforming Flat-ReAct."
-  - id: 0x04
-    status: "ACTIVE"
-    task: "What and Where (SCD Table Analysis): Investigating spatial cognitive dissonance in LLMs parsing complex tables, demonstrating multi-target interference drives displacement errors."
-  - id: 0x05
-    status: "ACTIVE"
-    task: "WWW 2026 Research (T-Fus / Tree_RAG): Developing incremental fragmented knowledge fusion in RAG via top-down tree structuring."
+    status: "WORKING_PAPER"
+    venue: "ICLR 2027"
+    task: "Mechanistic Study of Hierarchical Representation in Embedding Models: how flat vs tree vs graph representations affect retrieval, and dynamically selecting representation per query/data."
 ```
 
 ---
