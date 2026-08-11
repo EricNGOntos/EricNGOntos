@@ -106,7 +106,9 @@ https://github.com/user-attachments/assets/d8d34abd-a034-4b99-8694-d957f40ba1c3
 
 Started from an ambiguous brief; worked with the department chair and ~20 faculty members to gather common needs. Built modules including multimodal courseware Q&A, curriculum tracking, multi-format self-assessment quizzes, advisor-matching analysis, mock interview practice, and a frontier-research podcast generator.
 
-https://github.com/user-attachments/assets/4d243016-7586-4409-be18-fbd245486131
+https://github.com/user-attachments/assets/7755ba7d-6b99-436f-a08e-6b8c0a32f6c0
+
+https://github.com/user-attachments/assets/adb5ee29-9a98-4c2b-94b3-a6998e3839fa
 
 ---
 
