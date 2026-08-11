@@ -108,7 +108,7 @@ Started from an ambiguous brief; worked with the department chair and ~20 facult
 
 https://github.com/user-attachments/assets/7755ba7d-6b99-436f-a08e-6b8c0a32f6c0
 
-https://github.com/user-attachments/assets/adb5ee29-9a98-4c2b-94b3-a6998e3839fa
+**Try it:** [https://1jr5vm.site/](https://1jr5vm.site/) · account `raojianbo` · password `123456`
 
 ---
 
