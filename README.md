@@ -9,6 +9,9 @@
   <a href="mailto:blackorangekk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/Ontos-AI/knowhere">
+    <img src="https://img.shields.io/badge/Knowhere_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Knowhere GitHub">
+  </a>
 </div>
 
 <br>
@@ -31,8 +34,8 @@ If it involves parsing the unparsable, extracting the invisible, or orchestratin
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,react,fastapi,postgres,docker,git,linux" />
   <br>
-  <i><b>Core:</b> Python, PyTorch, LangChain, Celery, Llama, DeepSeek, Claude <br>
-  <b>Databases/Graph:</b> Neo4j, PostgreSQL, Qdrant</i>
+  <i><b>Core:</b> Python, PyTorch, LangChain, Llama, DeepSeek, Claude <br>
+  <b>Databases/Graph:</b> Neo4j, PostgreSQL, Elasticsearch</i>
 </p>
 
 ---
