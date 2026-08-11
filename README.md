@@ -16,8 +16,8 @@
 
 <br>
 
-> **Founder & CTO**, *Meta Structure Co., Ltd* · **Associate Professor** @ *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)*  
-> 🎓 Ph.D. in AI & Engineering, *Curtin University, Australia* | B.Eng & M.Eng, *Chongqing University*
+> **Founder & CTO** · **Associate Professor**  
+> 🎓 Ph.D. in AI & Engineering | B.Eng & M.Eng
 
 ---
 
