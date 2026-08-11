@@ -9,83 +9,102 @@
   <a href="mailto:blackorangekk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://knowhereto.ai">
+    <img src="https://img.shields.io/badge/knowhereto.ai-111111?style=for-the-badge" alt="knowhereto.ai">
+  </a>
+  <a href="https://github.com/Ontos-AI/knowhere">
+    <img src="https://img.shields.io/badge/Knowhere-2.3K+_★-181717?style=for-the-badge&logo=github" alt="Knowhere">
+  </a>
 </div>
 
 <br>
 
-> **Founder & CTO**, *Meta Structure Co., Ltd* · **Associate Professor** @ *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)*  
-> 🎓 Ph.D. in AI & Engineering, *Curtin University, Australia* | B.Eng & M.Eng, *Chongqing University*
+> **Chengke Wu, PhD** · AI Deployment Engineer & Founder  
+> Shipping agentic systems from prototype to enterprise production  
+> **Founder & CTO**, *Meta Structure Co., Ltd* · **Associate Professor**, *SIAT, Chinese Academy of Sciences*
 
 ---
 
-### 🚀 `<sys.profile>`
+### Profile
 
-I am an AI System Architect and Researcher operating at the intersection of **Agentic Retrieval-Augmented Generation (RAG)**, **Multimodal Large Language Models (LLMs)**, and **Knowledge Graphs (KG)**. I specialize in designing fault-tolerant, budget-aware autonomous agents capable of structuring highly noisy, real-world data (PDFs, DOCX, images) into actionable intelligence.
+Technical co-founder and AI researcher at the intersection of **document intelligence**, **agentic retrieval**, and **agent harness**. Led 10+ enterprise AI deployments as CTO of MetaStructure ($0.8M seed-funded), generating **~$560K** in revenue across 10+ enterprise clients (PetroChina, China State Construction, Shenzhen University, and more) with a **50%+** repeat-purchase rate.
 
-If it involves parsing the unparsable, extracting the invisible, or orchestrating multi-agent systems to solve domain-specific engineering challenges—I'm building it.
+Author of **Knowhere** (2.3K+ GitHub stars), an open-source offline document infrastructure combining multimodal document understanding, hierarchical graphs, and agentic navigation. Architected production systems including **Snap-Fill** (form-filling agent with 100% structure/format preservation) and **Knowhere Hub** / Eureka (personal knowledge-driven copilot summonable in any app).
 
----
+**66** publications · **h-index 25** · **5** ESI highly cited / hot papers
 
-### 💻 `<tech.stack>`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,react,fastapi,postgres,docker,git,linux" />
-  <br>
-  <i><b>Core:</b> Python, PyTorch, LangChain, Celery, Llama, DeepSeek, Claude <br>
-  <b>Databases/Graph:</b> Neo4j, PostgreSQL, Qdrant</i>
-</p>
+**Core expertise:** Document Intelligence · Agentic RAG · Knowledge Graphs · Structured Generation · AI Product & Research Leadership
 
 ---
 
-### 🏆 `<system.achievements>`
+### Experience
 
-* `[2025.08]` 🥇 **1st Place** - *Alibaba Global LLM Document Parsing Challenge* (1/406 globally)
-* `[2025.11]` 🚀 **Finalist** - *AI-Agent Global Track, China AI Application Scenarios Innovation Challenge* (Top 8/500)
-* `[2023.01]` 💼 **Principal Investigator** - *National Natural Science Foundation of China (NSFC) Youth Fund* (2023-2025)
-* `[2022.12]` ⭐ **Academic Rising Star** - *Shenzhen Institutes of Advanced Technology, CAS*
-* `[2022.11]` 🥈 **2nd Prize** - *Hong Kong Construction Industry Council (CIC) Construction Innovation Award*
+**Meta Structure Co., Ltd** — Founder & Chief Technology Officer · Mar 2025–Present  
+AI document memory infrastructure and agentic productivity company. Co-founder; closed a US$0.8M seed round. Led Knowhere (multimodal ingestion, vision tagging, hierarchy/memory graphs, agentic retrieval, cloud APIs / CLI / MCP), Snap-Fill, and Knowhere Hub. Onboarded 10+ enterprise clients with ~US$560K revenue and 50%+ repeat purchase.
 
----
-
-### 🧠 `<research.outputs>`
-
-My research focuses on deep learning, ontology, and LLM-driven decision-making in complex environments (e.g., AEC - Architecture, Engineering, and Construction). 
-
-**Selected Core Papers (First/Corresponding Author):**
-* `[Advanced Engineering Informatics 2025]` *Retrieval augmented generation-driven information retrieval and question answering in construction management* (**ESI Highly Cited**, Q1)
-* `[arXiv 2025]` *AuditAgent: Expert-Guided Multi-Agent Reasoning for Cross-Document Fraudulent Evidence Discovery*
-* `[Advanced Engineering Informatics 2024]` *A KG-LLM-Enabled Inspection Work Packaging Approach in Module Prefabrication* (Q1)
-* `[Automation in Construction 2024]` *Safety Consultation for Prefabricated Construction: A Localized Retrieval-Augmented Generative Question-Answering System* (Q1)
-* `[Automation in Construction 2023]` *Unlocking the Power of Language Models for Smart Configuration in the AEC Domain Using Spoken Language Understanding* (Q1)
-
-> 🔗 *For a complete list of publications, citations, and patents, please query my [Google Scholar](https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN).*
+**Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences** — Associate Research Fellow / Associate Professor · Jan 2022–Present  
+Lead research on knowledge graphs, RAG, structured reasoning, and AI-enabled organizational knowledge systems. PI on four funded projects; co-investigator on national/regional programs. h-index 25; five ESI highly cited/hot papers.
 
 ---
 
-### 🔬 `<current_processes>`
+### Main AI Systems
 
-```yaml
-threads:
-  - id: 0x01
-    status: "ACTIVE"
-    task: "Meta Structure / Knowhere (Open Source): A unified Agentic RAG pipeline with dynamic WorkflowOrchestrator and precise hierarchical context rendering."
-  - id: 0x02
-    status: "ACTIVE"
-    task: "Snap-fill Ecosystem (Local): Production-grade document intelligence platform featuring Term-First + Fallback retrieval and Lineage-Based Protection."
-  - id: 0x03
-    status: "ACTIVE"
-    task: "Hierarchy-as-Harness: Researching the use of explicit document hierarchies as an action and evidence scaffold for budget-constrained agents, outperforming Flat-ReAct."
-  - id: 0x04
-    status: "ACTIVE"
-    task: "What and Where (SCD Table Analysis): Investigating spatial cognitive dissonance in LLMs parsing complex tables, demonstrating multi-target interference drives displacement errors."
-  - id: 0x05
-    status: "ACTIVE"
-    task: "WWW 2026 Research (T-Fus / Tree_RAG): Developing incremental fragmented knowledge fusion in RAG via top-down tree structuring."
-```
+#### Knowhere — Document Memory Infrastructure for AI Agents
+Open source · Cloud · Self-hosted
+
+Builds transparent, navigable memory from complex multimodal documents through agentic parsing, page understanding, hierarchy extraction, graph construction, and vectorless retrieval. Tree- and graph-based navigation lets agents progressively locate and inspect evidence.
+
+- 2.3K+ GitHub stars · ~300 forks (Aug 2026 snapshot)
+- CLI + MCP for Cursor, Codex, WorkBuddy, OpenClaw, and more
+- 1st place (1/406), 2025 Alibaba Tianchi Document End-to-End Structured Information Extraction
+- Internal benchmark: +36% accuracy vs. MinerU / Unstructured-IO
+
+Try it: https://notebook.knowhereto.ai/ · Codes: https://github.com/Ontos-AI/knowhere
+
+#### Snap-Fill — Agentic Document and Form Filling
+Agentic web service that fills DOCX / XLSX / PDF forms while keeping structure and formatting **100%** intact. ~5× faster than general agents (Codex / OpenClaw) at ~1/3 inference cost with same-level accuracy. Grand Prize, 2026 AI Agent Global Special Competition.
+
+Demo: https://staging.gosnapfill.cn/demos/snapfill.mp4 · Try it: https://staging.gosnapfill.cn/
+
+#### Knowhere Hub — Inline Knowledge and Composition Copilot
+Privacy-aware macOS co-pilot for knowledge search, inline composition, file retrieval, and agent access — summonable in Email, WeChat, Office, browsers, agent windows, and more. Powered by Knowhere cloud; can also run fully local.
 
 ---
 
-### 💼 `<selected.enterprise.cases>`
+### Selected Honors
+
+* **1st Prize (Knowhere AI)** — National AI Application Scenario Innovation Challenge, 2026, CAAI
+* **Grand Prize (Snap-Fill)** — 1st AI Agent Global Special Competition, 2026, CAAI
+* **Grand Prize (Knowhere AI)** — 1st Tsinghua Innovation & Entrepreneurship Competition, 2025
+* **1st Prize (Knowhere AI)** — Intel AI Innovation Application Competition, 2025
+* **1st Place (1/406)** — Alibaba Tianchi Document End-to-End Structured IE, 2025
+* **2nd Prize** — Global Construction Innovation Award (CIC, Hong Kong), 2022
+* **Outstanding Young Researcher Award** — Chinese Academy of Sciences, 2022
+* **Pengcheng Peacock Talent Plan** awardee · **Kunpeng Youth Program** · **Shenzhen Moli Camp** (AI accelerator)
+
+---
+
+### Selected Publications
+
+* Wu, C., Ding, W., Jin, Q., et al. (2025). *Retrieval augmented generation-driven information retrieval and question answering in construction management.* **Advanced Engineering Informatics**, 65, 103158. (JCR Q1; CCF-B; IF 11.5; **ESI Highly Cited**)
+* Li, X., Wu, C.*, Yang, Z., et al. (2023). *Knowledge graph-enabled adaptive work packaging approach in modular construction.* **Knowledge-Based Systems**, 260, 110115. (JCR Q1; IF 8.0)
+* Wu, C., Li, X., Jiang, R., et al. (2022). *Graph based deep learning model for knowledge base completion in constraint management of construction projects.* **Computer-Aided Civil and Infrastructure Engineering**, 38(6), 702–719. (JCR Q1; IF 9.9)
+* Wu, C., Wu, P., Jiang, R., et al. (2021). *Hybrid deep learning model for automating constraint modelling in advanced work packaging.* **Automation in Construction**, 127, 103733. (JCR Q1; IF 12.6)
+* Wu, C., Wu, P., Wang, J., et al. (2020). *Ontological knowledge base for concrete bridge rehabilitation project management.* **Automation in Construction**, 121, 103428. (JCR Q1; IF 12.6; **ESI Highly Cited**)
+
+> Full list: [Google Scholar](https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN)
+
+---
+
+### Ongoing Research
+
+* **Where vs What, Structure–Content Decomposition** — submitted EMNLP 2026. Separates value recall from correct path/grid placement; structure-aware rewards for JSON/table tasks.
+* **Hierarchy as agent harness** — working paper, ICLR 2027. Hierarchy as navigation and evidence-allocation harness for long documents; compares map-nav, flat retrieval, TreeRAG, and gold/predicted hierarchies.
+* **Mechanistic Study of Hierarchical Representation in Embedding Models** — working paper, ICLR 2027. How nested structure changes attention specialization, embedding geometry, and retrieval.
+
+---
+
+### Selected Enterprise Cases & Demos
 
 #### Maia — Agent for engineering management teams · ~$150K
 **CR Construction Co., Ltd.** · 2025–2026
