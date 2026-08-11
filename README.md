@@ -83,6 +83,33 @@ threads:
     task: "WWW 2026 Research (T-Fus / Tree_RAG): Developing incremental fragmented knowledge fusion in RAG via top-down tree structuring."
 ```
 
+---
+
+### 💼 `<selected.enterprise.cases>`
+
+#### Maia — Agent for engineering management teams · ~$150K
+**CR Construction Co., Ltd.** · 2025–2026
+
+Worked with department heads and the digital transformation lead to map workflows and AI opportunities across engineering, procurement, finance, admin, and HR. Delivered trilingual professional translation, automated report generation, and form automation modules, plus GUI-agent and RPA automation for data entry, export, and verification.
+
+🎬 **[Demo video](./demos/maia-cr-construction.mov)**
+
+#### Eleven’th Think Tank · ~$100K
+**Shaanxi Construction Engineering No. 11 Construction Group Co., Ltd.** · 2025
+
+Worked with department heads and the chief engineer to map workflows and data across headquarters and project-site teams. Built 10+ agents including internal document conflict detection, proposal review, bid document generation, drawing lookup, and form filling.
+
+🎬 **[Demo video](./demos/eleventh-think-tank.mp4)**
+
+#### Tujiao Smart Journey · ~$150K
+**College of Civil and Transportation Engineering, Shenzhen University** · 2025–2026
+
+Started from an ambiguous brief; worked with the department chair and ~20 faculty members to gather common needs. Built modules including multimodal courseware Q&A, curriculum tracking, multi-format self-assessment quizzes, advisor-matching analysis, mock interview practice, and a frontier-research podcast generator.
+
+🎬 **[Demo video](./demos/tujiao-smart-journey.mp4)**
+
+---
+
 <br>
 
 <div align="center">
