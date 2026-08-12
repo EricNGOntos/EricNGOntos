@@ -47,9 +47,6 @@ If it involves parsing the unparsable, extracting the invisible, or orchestratin
 * `[2025]` 🏆 **Grand Prize (Knowhere AI)** - *1st Tsinghua Innovation & Entrepreneurship Competition*
 * `[2025]` 🥇 **1st Prize (Knowhere AI)** - *Intel AI Innovation Application Competition*
 * `[2025.08]` 🥇 **1st Place** - *Alibaba Tianchi Document End-to-End Structured IE* (1/406)
-* `[2022]` 🥈 **2nd Prize** - *Global Construction Innovation Award*, Hong Kong CIC
-* `[2022]` ⭐ **Outstanding Young Researcher Award** - *Chinese Academy of Sciences*
-* `[2023.01]` 💼 **Principal Investigator** - *NSFC Youth Fund* (2023–2025)
 
 ---
 
