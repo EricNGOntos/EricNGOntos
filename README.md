@@ -83,33 +83,6 @@ threads:
 
 ---
 
-### 💼 `<selected.enterprise.cases>`
-
-#### Maia — Agent for engineering management teams · ~$150K
-**CR Construction Co., Ltd.** · 2025–2026
-
-Worked with department heads and the digital transformation lead to map workflows and AI opportunities across engineering, procurement, finance, admin, and HR. Delivered trilingual professional translation, automated report generation, and form automation modules, plus GUI-agent and RPA automation for data entry, export, and verification.
-
-https://github.com/user-attachments/assets/ac95face-50b0-4dd6-b363-37d71ee18711
-
-#### Eleven’th Think Tank · ~$100K
-**Shaanxi Construction Engineering No. 11 Construction Group Co., Ltd.** · 2025
-
-Worked with department heads and the chief engineer to map workflows and data across headquarters and project-site teams. Built 10+ agents including internal document conflict detection, proposal review, bid document generation, drawing lookup, and form filling.
-
-https://github.com/user-attachments/assets/d8d34abd-a034-4b99-8694-d957f40ba1c3
-
-#### Tujiao Smart Journey · ~$150K
-**College of Civil and Transportation Engineering, Shenzhen University** · 2025–2026
-
-Started from an ambiguous brief; worked with the department chair and ~20 faculty members to gather common needs. Built modules including multimodal courseware Q&A, curriculum tracking, multi-format self-assessment quizzes, advisor-matching analysis, mock interview practice, and a frontier-research podcast generator.
-
-https://github.com/user-attachments/assets/7755ba7d-6b99-436f-a08e-6b8c0a32f6c0
-
-**Try it:** [https://1jr5vm.site/](https://1jr5vm.site/) · account `raojianbo` · password `123456`
-
----
-
 <br>
 
 <div align="center">
