@@ -61,8 +61,6 @@ My research focuses on deep learning, ontology, and LLM-driven decision-making i
 * `[Automation in Construction 2021]` *Hybrid deep learning model for automating constraint modelling in advanced work packaging* (JCR Q1, IF 12.6)
 * `[Automation in Construction 2020]` *Ontological knowledge base for concrete bridge rehabilitation project management* (**ESI Highly Cited**, JCR Q1, IF 12.6)
 
-> 🔗 *For a complete list of publications, citations, and patents, please query my [Google Scholar](https://scholar.google.com.au/citations?user=DzwZYrQAAAAJ&hl=zh-CN).*
-
 ---
 
 ### 🔬 `<ongoing.work>`
