@@ -16,7 +16,7 @@
 
 <br>
 
-> **Founder & CTO** · **Associate Professor**  
+> **AI Agent Harness Architect** · **Associate Professor**  
 > 🎓 Ph.D. in AI & Engineering | B.Eng & M.Eng
 
 ---
